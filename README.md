@@ -7,8 +7,7 @@ The task is to process sequential pieces of evidence (social media posts) and de
 
 ### Data
 The dataset is provided by eRisk 2021-2022 and consists of a collection of writings (posts or comments) from a set of social media users. 
-https://docs.google.com/uc?export=download&id=10GC5JGKQ5pkdy-6bZBzqNb8UxHLPZY_W
-Please download and unpack
+Request can be made here: https://erisk.irlab.org/eRisk2023.html
 
 ### Architecture:
 

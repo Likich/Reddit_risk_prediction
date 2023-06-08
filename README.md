@@ -10,6 +10,10 @@ The dataset is provided by eRisk 2021-2022 and consists of a collection of writi
 https://docs.google.com/uc?export=download&id=10GC5JGKQ5pkdy-6bZBzqNb8UxHLPZY_W
 Please download and unpack
 
+### Architecture:
+
+![alt text](https://github.com/Likich/Reddit_risk_prediction/blob/main/Newdiag.jpeg?raw=true)
+
 ### References
 
 Losada, D.E., & Crestani, F. (2016). An evaluation of evaluation metrics for classification: Accuracy, precision, recall, F1, ROC, sensitivity, and specificity. In Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 1043-1046).
